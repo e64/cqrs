@@ -1,0 +1,16 @@
+{
+    "name": "e64/cqrsarchitecture",
+    "description": "classes de base pour un projet utilisant le pattern CQRS",
+    "type": "library",
+    "license": "open source",
+    "authors": [
+        {
+            "name": "Stephane Pailha",
+            "email": "contact@e64.net"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    }
+}
